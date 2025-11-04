@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kalkulatorOcen", "kalkulato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generatorList", "generatorList\generatorList.csproj", "{B7638206-B209-4FC3-BAAE-4C7EF93E9E7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "systemLogowania", "systemLogowania\systemLogowania.csproj", "{F2B28EF1-D447-4612-BDA4-48A9779B6DF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B7638206-B209-4FC3-BAAE-4C7EF93E9E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7638206-B209-4FC3-BAAE-4C7EF93E9E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7638206-B209-4FC3-BAAE-4C7EF93E9E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B28EF1-D447-4612-BDA4-48A9779B6DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B28EF1-D447-4612-BDA4-48A9779B6DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B28EF1-D447-4612-BDA4-48A9779B6DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B28EF1-D447-4612-BDA4-48A9779B6DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
